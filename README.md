@@ -67,3 +67,6 @@ kubernetes   ClusterIP      10.96.0.1      <none>        443/TCP          54m
 ```
 5. Jalankan melalui browser
 ![enter image description here](1.png)
+
+6. Link Docker Image :
+https://hub.docker.com/repository/docker/alditampan69/tampan
